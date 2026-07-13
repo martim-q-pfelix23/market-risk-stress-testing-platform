@@ -53,14 +53,14 @@ Version `v0.1` is complete when the project scope, architecture and repository s
 
 ### Deliverables
 
-* [ ] Market data provider interface
-* [ ] Historical adjusted-price retrieval
-* [ ] Date-range validation
+* [x] Market data provider interface
+* [x] Historical adjusted-price retrieval
+* [x] Date-range validation
 * [ ] Missing-data detection
 * [ ] Asset time-series alignment
-* [ ] Local data caching
-* [ ] Data-layer error handling
-* [ ] Unit tests for data validation and transformation
+* [x] Local data caching
+* [x] Data-layer error handling
+* [x] Unit tests for data validation and transformation
 
 ### Completion Criteria
 
