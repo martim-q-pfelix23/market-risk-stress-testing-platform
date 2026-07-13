@@ -33,12 +33,16 @@ classifiers = [
     "Topic :: Office/Business :: Financial",
 ]
 
-dependencies = []
+dependencies = [
+    "pandas>=3.0.3",
+    "yfinance>=1.5.1",
+]
 
 
 [dependency-groups]
 dev = [
     "mypy",
+    "pandas-stubs>=3.0.3.260530",
     "pytest",
     "pytest-cov",
     "ruff",
