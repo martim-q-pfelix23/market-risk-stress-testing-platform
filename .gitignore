@@ -234,3 +234,5 @@ Icon?
 .AppleDB
 .AppleDesktop
 
+# Local market data cache
+data/cache/

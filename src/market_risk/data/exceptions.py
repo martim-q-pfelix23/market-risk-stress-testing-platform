@@ -15,3 +15,7 @@ class MarketDataValidationError(MarketDataError):
 
 class MarketDataUnavailableError(MarketDataError):
     """Raised when no usable data is available for a requested asset."""
+
+
+class MarketDataCacheError(MarketDataError):
+    """Raised when cached market data cannot be read or written."""
