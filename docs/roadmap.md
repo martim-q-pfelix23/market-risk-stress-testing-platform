@@ -30,10 +30,10 @@ The project follows an incremental versioning strategy. Each version introduces 
 * [x] Architecture design
 * [x] Repository structure
 * [ ] Initial professional README
-* [ ] Python project configuration
-* [ ] Development dependency configuration
+* [x] Python project configuration
+* [x] Development dependency configuration
 * [ ] Initial continuous integration workflow
-* [ ] Code formatting and linting configuration
+* [x] Code formatting and linting configuration
 
 ### Completion Criteria
 
