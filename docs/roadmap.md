@@ -14,7 +14,7 @@ The project follows an incremental versioning strategy. Each version introduces 
 
 ## v0.1 — Planning and Repository Setup
 
-**Status:** `[~]`
+**Status:** `[x]`
 
 ### Objectives
 
@@ -32,7 +32,7 @@ The project follows an incremental versioning strategy. Each version introduces 
 * [x] Initial professional README
 * [x] Python project configuration
 * [x] Development dependency configuration
-* [ ] Initial continuous integration workflow
+* [x] Initial continuous integration workflow
 * [x] Code formatting and linting configuration
 
 ### Completion Criteria
@@ -43,7 +43,7 @@ Version `v0.1` is complete when the project scope, architecture and repository s
 
 ## v0.2 — Market Data Layer
 
-**Status:** `[ ]`
+**Status:** `[~]`
 
 ### Objectives
 

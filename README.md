@@ -5,7 +5,7 @@
 **An end-to-end platform for portfolio market risk analysis, model validation and stress testing.**
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
-![Status](https://img.shields.io/badge/status-pre--alpha-orange)
+[![Continuous Integration](https://github.com/martim-q-pfelix23/market-risk-stress-testing-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/TEU-USERNAME/market-risk-stress-testing-platform/actions/workflows/ci.yml)
 ![Package Manager](https://img.shields.io/badge/package%20manager-uv-purple)
 ![Code Quality](https://img.shields.io/badge/code%20quality-Ruff-black)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -232,7 +232,7 @@ The project requires:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<your-github-username>/market-risk-stress-testing-platform.git
+git clone https://github.com/<martim-q-pfelix23>/market-risk-stress-testing-platform.git
 cd market-risk-stress-testing-platform
 ```
 
